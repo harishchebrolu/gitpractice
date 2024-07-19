@@ -4,3 +4,4 @@ practicing git branches
 git stash execution
 m cdksanefb	jk ckkA
 CN	SJKVBQWEVJ DBS
+checking ssh url for authorization
