@@ -2,3 +2,4 @@ Hi Harish
 
 This is the first file for git practice.
 i am adding one more linne to practice purpose.
+I am practicing git fetch and git merge commands with this file, currently, I am editing this file from a remote repository.
